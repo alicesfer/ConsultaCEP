@@ -29,3 +29,4 @@ Este projeto tem como objetivo criar uma ferramenta simples para busca de endere
 1. Clone este repositório:
    ```bash
    git clone https://github.com/alicesfer/ConsultaCEP.git
+   cd ConsultaCEP
